@@ -1,0 +1,5 @@
+let g:spf13_bundle_groups=['general','programming','misc','neocomplete']
+let g:spf13_leader="\<Space>"
+let g:spf13_localleader='\'
+
+let g:spf13_bundle_groups=['general', 'neocomplete', 'programming', 'python', 'javascript', 'html', 'misc',]
